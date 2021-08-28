@@ -1,4 +1,4 @@
-# MAC_Changer
+# MAC Changer
 A Python program designed to automate the change of the MAC address of a personal computer on the Linux operating system.
 Firstly, install library:
 ```sh
